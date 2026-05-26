@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "JUSTLIKEINGLIKE",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "username": "AFKBOT",
+    "password": "Justin",
+    "type": "oniline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "CreativyPunki.aternos.me:21266",
+    "port": 21266,
+    "version": "1.20.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
